@@ -1,0 +1,11 @@
+    .footer {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        font-family: sans-serif;
+        position: fixed;
+        bottom: 0;
+        font-family: "EagleLake-Regular";
+        font-size: smaller;
+        text-decoration: none;
+      }

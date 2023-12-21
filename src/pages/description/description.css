@@ -1,0 +1,41 @@
+.mypic {
+  width: 9rem;
+  border-radius: 60%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 0 10px  rgba(234, 194, 201, 0.477); 
+}
+
+.description-top {
+  width: calc(80% - 18rem);
+  font-size: 1.5rem;
+  padding-top: 2rem;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display: block;
+}
+
+.description-top::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.description-logo {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.description-text {
+  width: 80%;
+  font-size: 1.2rem;
+  margin: auto;
+  align-items: center;
+  display: block;
+  text-align: center;
+}

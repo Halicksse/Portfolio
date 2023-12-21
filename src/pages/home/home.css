@@ -1,0 +1,57 @@
+.home-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 70vh;
+  padding: 50px;
+  font-size: 1rem;
+  font-weight: light;
+}
+
+.home-text h1 {
+  font-size: 30px;
+  padding: 8px;
+}
+
+.home-text h2 {
+  font-size: 25px;
+  padding-top: 4px;
+}
+.home-text p {
+  font-size: 20px;
+  padding: 5px;
+}
+.mail-contact-home {
+  text-decoration: none;
+  color: rgb(50, 50, 50);
+  text-align: center;
+  padding-top: 3px;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+  max-width: 300px;
+  margin: 20px auto;
+}
+
+.mail-contact-home a {
+    display: block;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    background-color: #efddc8ba;
+    color: #444444;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: background-color 1s ease;
+    transition: transform 1s ease, box-shadow 1s ease;
+    max-width: 200px;
+    margin: 0 auto;
+    font-size: 24px;
+}
+
+.mail-contact-home a:hover {
+  background-color: rgba(236, 207, 212, 0.409);
+  transform: scale(1.1);
+  box-shadow: 0 0 10px  rgba(239, 210, 215, 0.8);
+}

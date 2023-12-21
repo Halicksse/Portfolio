@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "name": "XmasClick",
+        "description": "Clicker #1Place Hackathon",
+        "link": "https://xmass.click/",
+        "picture": "https://xmass.click/svg/logo.svg"
+    },
+    {
+        "id" : 2,
+        "name": "All Booked",
+        "description": "Book Store for  project 2 at wildcodeschool",
+        "link": "https://allbooked.vercel.app//",
+        "picture": "https://allbooked.vercel.app/assets/logo-allbooked-22fb4cf8.png"
+    },
+    {
+        "id" : 3,
+        "name": "Poulpote",
+        "description": "Funny website for kids to help them choose a movie for project 1 at wildcodeschool",
+        "link": "https://chikoulat.github.io/poulpote-project/index.html?fbclid=IwAR0Td48ODHpWSWtoKdJmzNMb6TT9v8dHLVT892qkI8oTshH-oiN8GwyoTJI",
+        "picture": "/logo poulpe.png"
+    },
+    {
+        "id" : 5,
+        "name": "Lucile Photography",
+        "description": "Funny website for kids to help them choose a movie for project 1 at wildcodeschool",
+        "link": "https://chikoulat.github.io/poulpote-project/index.html?fbclid=IwAR0Td48ODHpWSWtoKdJmzNMb6TT9v8dHLVT892qkI8oTshH-oiN8GwyoTJI",
+        "picture": "/lucile.png"
+    },
+    {
+        "id" : 6,
+        "name": "Mapping art",
+        "description": "Streetart Hunting game with a retro gaming design for project 3 at wildcodeschool",
+        "link": "",
+        "picture": "/keur.png"
+    }
+]
