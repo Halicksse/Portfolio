@@ -8,7 +8,7 @@ import git from "../../assets/git.png";
 
 function Description() {
   return (
-    <div>
+    <div className="div-desc">
       <img className="mypic" src={mypic} alt="my-picture" />
       <h2 className="description-top">
           Web Developper in training, I am Thrilled to finally immerse myself in
@@ -34,7 +34,6 @@ function Description() {
             develop my skills.
         </p>
       </div>
-      ;
     </div>
   );
 }

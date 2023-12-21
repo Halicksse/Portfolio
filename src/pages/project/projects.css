@@ -65,6 +65,7 @@
   .projects-card p {
     text-align: center;
     font-style: italic;
+    padding: 0 4rem;
   }
   
   .projects-card a {
