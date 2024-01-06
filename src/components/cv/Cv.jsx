@@ -1,10 +1,10 @@
-import "../cv/cv.css";
+import "./cv.css";
 import cv from "/cv.pdf";
 
 function Cv() {
   return (
     <>
-      <div className="Cv-title">
+      <div className="Cv-title" id="CV">
         <h3 className="h3-contact">Alix CARLHANT</h3>
         <p className="cv-job">
           <strong>WEB DEVELOPPER</strong>

@@ -3,12 +3,12 @@
 }
 
 body {
-  background-image: url(/src/assets/w5.jpg);
+  background-image: url(./assets/7.png);
   min-height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
-  color: rgb(50, 50, 50);
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(238, 233, 233);
+  font-family: Cormorant Garamond;
   padding-bottom: 5rem;
 }
 

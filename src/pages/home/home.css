@@ -4,24 +4,23 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  height: 70vh;
+  height: 75vh;
   padding: 50px;
-  font-size: 1rem;
   font-weight: light;
 }
 
 .home-text h1 {
-  font-size: 30px;
+  font-size: 3rem;
   padding: 8px;
 }
 
 .home-text h2 {
-  font-size: 25px;
+  font-size: 45px;
   padding-top: 4px;
 }
 .home-text p {
-  font-size: 20px;
-  padding: 5px;
+  font-size: 30px;
+  margin: 0 25vh 0 25vh;
 }
 .mail-contact-home {
   text-decoration: none;
@@ -31,13 +30,12 @@
   display: inline-block;
   transition: background-color 0.3s ease;
   max-width: 300px;
-  margin: 20px auto;
+  margin: 40px auto;
 }
 
 .mail-contact-home a {
     display: block;
     padding: 15px;
-    margin: 10px;
     text-align: center;
     background-color: #efddc8ba;
     color: #444444;
@@ -55,3 +53,4 @@
   transform: scale(1.1);
   box-shadow: 0 0 10px  rgba(239, 210, 215, 0.8);
 }
+

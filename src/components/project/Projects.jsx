@@ -1,4 +1,4 @@
-import '../project/projects.css';
+import './projects.css';
 import ProjectsCard from './ProjectsCard';
 import projects from "/src/data/projects.json";
 
@@ -6,7 +6,7 @@ function Projects() {
   return (
     <>
      <h3 className="title-projects"><i>My Projects</i></h3>
-     <div className="cards">
+     <div className="cards" id="projects">
       {projects &&
       projects.map((e) => (
       <div

@@ -4,18 +4,17 @@
 
 .mypic {
   width: 9rem;
-  border-radius: 60%;
+  border-radius: 25%;
   margin: auto;
   display: flex;
+  padding-bottom: 1.5                     rem;
   justify-content: center;
-  box-shadow: 0 0 10px  rgba(234, 194, 201, 0.477); 
-  padding: 2rem ;
+  box-shadow: 5px rgba(234, 194, 201, 0.477); 
 }
 
 .description-top {
-  width: calc(80% - 18rem);
-  font-size: 1.5rem;
-  margin: auto;
+  font-size: 2rem;
+  margin: 0 25vh 0 25vh;
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -36,12 +35,10 @@
 }
 
 .description-text {
-  width: 80%;
-  font-size: 1.2rem;
-  margin: auto;
+  font-size: 1.7rem;
+  margin: 0 35vh 0 25vh;
   align-items: center;
   display: block;
   justify-content: center;
   text-align: center;
-  padding: 0 150px;
 }

@@ -5,6 +5,7 @@
   text-align: center;
   padding-top: 10vh;
   padding-bottom: 20px;
+  /* box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); Ajoute une ombre pour la séparation */
 }
 
 .Cv-title h3 {
@@ -39,6 +40,7 @@
   font-size: 20px;
 }
 
+
 .mail-cv a,
 .networks-cv a,
 .cv-cv a {
@@ -59,12 +61,15 @@
 .mail-cv a:hover,
 .networks-cv a:hover,
 .cv-cv a:hover {
-  background-color: rgba(234, 194, 201, 0.8);
+    background-color: rgba(236, 207, 212, 0.409);
+    transform: scale(1.1);
+    box-shadow: 0 0 10px  rgba(239, 210, 215, 0.8);
 }
 
 .networks-cv a + a {
   margin-top: 20px;
 }
+
 .mail-cv p,
 .networks-cv p,
 .cv-cv p {

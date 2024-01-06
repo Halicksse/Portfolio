@@ -6,6 +6,8 @@
         position: fixed;
         bottom: 0;
         font-family: "EagleLake-Regular";
-        font-size: smaller;
+        font-size: 1.31rem;
         text-decoration: none;
+        background-color: none;
+        box-shadow: 0 -2px 5px rgba(255, 255, 255, 0.1); /* Ajoute une ombre pour la séparation */
       }

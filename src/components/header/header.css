@@ -6,38 +6,36 @@
   font-size: 1rem;
   padding-top: 2em;
   padding-right: 40px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
 }
 
 .header-logo {
   position: absolute;
   top: 0;
   left: 0;
-  width: 350px;
-  height: 450px;
+  width: 200px;
+  height: 250px;
   background-color: transparent;
   border-radius: 50%;
 }
 
-.header-logo:hover {
-  box-shadow: 0 0 10px  rgba(234, 194, 201, 0.477); 
-}
-
 .Links {
   display: flex;
+  position: fixed;
   color: rgb(50, 50, 50);
   background-color: transparent;
   justify-content: flex-end;
   align-items: center; 
+  padding-right: 40px;
 }
 
 .Links a {
   margin-left: 40px;
   text-decoration: none; 
-  color: rgb(50, 50, 50);
-  /* box-shadow: 0 0 0 rgba(0, 0, 0, 0.1);
-  transition: box-shadow 0.3s ease;  */
+  color: rgb(246, 240, 240);
+  font-size: 2rem;
+  font-weight: bolder;
 }
-
-/* .Links a:hover {
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
-} */

@@ -8,8 +8,8 @@ function Home() {
       </h1>
       <h2>Web developper searching for an internship</h2>
       <p className="description-home">
-        Welcome to my web developer portfolio! Explore my projects and skills,
-        and feel free to get in touch. Excited to share my journey in the world
+        Welcome to my web developer portfolio! Explore my projects and skills.
+        Feel free to get in touch. Excited to share my journey in the world
         of web development with you!
       </p>
       <div className="mail-contact-home">

@@ -24,14 +24,12 @@
         "id" : 5,
         "name": "Lucile Photography",
         "description": "Showcase website made as a project at wild codeschool",
-        "link": "",
         "picture": "/lucile.png"
     },
     {
         "id" : 6,
         "name": "Mapping art",
         "description": "Streetart Hunting game with a retro gaming design for project 3 at wildcodeschool",
-        "link": "",
         "picture": "/keur.png"
     }
 ]
